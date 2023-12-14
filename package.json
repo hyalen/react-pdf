@@ -1,11 +1,10 @@
 {
-  "private": true,
   "name": "@react-pdf/root",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "license": "MIT",
-  "author": "Diego Muracciole <diegomuracciole@gmail.com>",
-  "homepage": "https://github.com/diegomura/react-pdf#readme",
-  "repository": "git@github.com:diegomura/react-pdf.git",
+  "author": "Hyalen Caldeira <hyalen.neves@gmail.com>",
+  "homepage": "https://github.com/hyalen/react-pdf#readme",
+  "repository": "git@github.com:hyalen/react-pdf.git",
   "workspaces": [
     "packages/*"
   ],
