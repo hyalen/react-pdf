@@ -1,6 +1,6 @@
 {
-  "name": "@react-pdf/root",
-  "version": "2.0.1",
+  "name": "react-pdf",
+  "version": "0.0.1",
   "license": "MIT",
   "author": "Hyalen Caldeira <hyalen.neves@gmail.com>",
   "homepage": "https://github.com/hyalen/react-pdf#readme",
